@@ -13,7 +13,7 @@ This project proposes a novel framework **TGODE** to address two critical factor
 
 The overall architecture of TGODE consists of three main parts: **Pivotal Graph Generation**, **Time-Guided Diffusion Generator**, and **Generalized Graph Neural ODEs**.
 
-![main.png]()
+![GitHub Logo](main.png)
 
 
 ## Requirements
@@ -66,6 +66,7 @@ If you find this repo helpful to your research, please cite our paper :
 }
 
 ```
+
 
 
 
